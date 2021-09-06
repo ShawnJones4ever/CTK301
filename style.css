@@ -1,0 +1,59 @@
+/*  This is my cool new stylesheet */
+/*
+p {
+ color: #ff0000;
+background-color: #0000FF;
+}
+*/
+
+h1 {
+  color: #FFFFF;
+background-color: #80CBB3;
+}
+
+a {
+ color: #ff0000;
+}
+
+a:link {
+ color: #00ff00;a {
+ text-decoration: none;
+}
+}
+
+a:visited {
+ color: #0000ff;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+ color: #ffff00;a {
+ text-decoration: underline;
+}
+
+.spanstyle {
+  color: #00ff00;
+}
+
+divexample {
+color: #0000FF
+background-color: #ffff00;
+}
+
+#specialid {
+  color: #00FF00;
+backgroud-color: #000000;
+}
+
+.specialid {
+  color: #00FF00;
+  background-color: #FFFFFF;
+}
+
+footer {
+color: #ffffff;
+background-color: #ff0000;
+}
